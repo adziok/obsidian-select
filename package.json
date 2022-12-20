@@ -1,7 +1,7 @@
 {
 	"name": "obsidian-select",
 	"version": "0.0.0",
-	"description": "HTML like select for obsidian, allow to declare options and use tem in your notes!",
+	"description": "HTML like select for obsidian, allow to declare options and use them in your notes!",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",

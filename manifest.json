@@ -1,11 +1,10 @@
 {
-	"id": "obsidian-sample-plugin",
-	"name": "Sample Plugin",
-	"version": "1.0.0",
+	"id": "obsidian-select",
+	"name": "Obsidian Select Options",
+	"version": "0.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "This is a sample plugin for Obsidian. This plugin demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "HTML like select for obsidian, allow to declare options and use them in your notes!",
+	"author": "Adrian Karwowski",
+	"authorUrl": "https://github.com/adziok",
 	"isDesktopOnly": false
 }
